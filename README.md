@@ -1,6 +1,6 @@
-Here's my tmux configuration. 
+## Here's my tmux configuration. 
 
-Warning: This build uses `~/.config/tmux/` as a working directory, if you already have a `~/.tmux.conf` you will need first run `rm -rf ~/.tmux.conf`.
+**Warning:** This build uses `~/.config/tmux/` as a working directory, if you already have a `~/.tmux.conf` you will need first run `rm -rf ~/.tmux.conf`.
 
 Now, one way to set things up is by running:
 ```
