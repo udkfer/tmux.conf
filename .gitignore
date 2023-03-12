@@ -1,2 +1,2 @@
-application/**/*
+application/plugins/
 !plugins/tpm/
