@@ -1,4 +1,2 @@
-/plugins/tmux-continuum
-/plugins/tmux-fzf
-/plugins/tmux-resurrect
-/plugins/tmux-sensible
+plugins/
+!plugins/tpm
